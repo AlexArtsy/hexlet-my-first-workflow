@@ -3,6 +3,6 @@ name: hello-world
 # on – определяет события, которые запускают воркфлоу
 on: push
 jobs:
-  # say-hello – произвольно выбранное имя задания
+  # sayHello – произвольно выбранное имя задания
   # их может быть больше одного
-  say-hello: make say-hello
+  sayHello: make say-hello

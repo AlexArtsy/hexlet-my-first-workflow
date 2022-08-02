@@ -1,4 +1,4 @@
 # Makefile
 
-say-hello: #  for GitHub Actions
-  echo 'Hello, World!'
+say-hello: # 
+        echo 'Hello, World!'

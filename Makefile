@@ -1,4 +1,4 @@
-# Makefile
+#Makefile
 
-say-hello: # 
-        echo 'Hello, World!'
+say-hello: # коммент
+	echo 'Hello, World!'

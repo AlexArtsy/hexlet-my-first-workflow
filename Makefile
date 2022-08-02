@@ -1,4 +1,4 @@
 # Makefile
 
 say-hello: #  for GitHub Actions
-  console.log('Hello, World!');
+    echo 'Hello, World!'
